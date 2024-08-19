@@ -178,3 +178,32 @@ list of sites to ignore (one site name per line).
 
 MIT © Sherlock Project<br/>
 Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===== FABINHO TESTS =====
+
+
+
+PS C:\Users\fabia\OneDrive\Documentos\GITHUB-REPOSITORIES\sherlock\sherlock> python .\sherlock.py brunogragam
+[*] Checking username brunogragam on:
+
+[+] Contently: https://brunogragam.contently.com/
+[+] Fiverr: https://www.fiverr.com/brunogragam
+[+] G2G: https://www.g2g.com/brunogragam
+[+] Lolchess: https://lolchess.gg/profile/na/brunogragam
+
+
